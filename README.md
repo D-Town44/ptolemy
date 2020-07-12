@@ -1,2 +1,2 @@
 # ptolemy
-Project Visualization Tool
+Project Visualization Tool in Elixir
